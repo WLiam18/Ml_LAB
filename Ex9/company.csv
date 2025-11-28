@@ -1,0 +1,13 @@
+company,job,degree,salary_greater_than_100k
+Google,Computer Engineer,Bachelors,0
+Google,Computer Engineer,Masters,1
+Google,Sales,Bachelors,0
+Google,Sales,Masters,1
+Amazon,Computer Engineer,Bachelors,0
+Amazon,Computer Engineer,Masters,1
+Amazon,Sales,Bachelors,0
+Amazon,Sales,Masters,1
+Facebook,Computer Engineer,Bachelors,0
+Facebook,Computer Engineer,Masters,1
+Facebook,Sales,Bachelors,0
+Facebook,Sales,Masters,0
